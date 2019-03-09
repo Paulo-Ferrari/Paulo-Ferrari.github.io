@@ -41,6 +41,7 @@ nav {
     flex-direction: column;
     align-items: center;
     background-color: #4d4d4d;
+    margin-bottom: 5px;
 }
 
 nav > a {
